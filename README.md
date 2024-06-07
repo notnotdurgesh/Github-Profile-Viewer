@@ -2,6 +2,12 @@
 
 A React-based application for viewing GitHub profiles, created using Vite. This application allows users to search for GitHub profiles, view profile details, repositories, followers, and following lists. It also includes a dark mode toggle for a better user experience.
 
+
+## Live Demo
+
+Check out the live demo of the application [here](https://github-profileviewer.netlify.app/)).
+
+
 ## Features
 
 - **Profile Search:** Search for GitHub profiles by username.
@@ -19,9 +25,6 @@ A React-based application for viewing GitHub profiles, created using Vite. This 
 - **Lodash.debounce:** Utility for debouncing API calls.
 - **Tailwind CSS:** Utility-first CSS framework for styling.
 
-## Live Demo
-
-Check out the live demo of the application [here](https://github-profileviewer.netlify.app/)).
 
 ## Getting Started
 
