@@ -5,7 +5,7 @@ A React-based application for viewing GitHub profiles, created using Vite. This 
 
 ## Live Demo
 
-Check out the live demo of the application [here](https://github-profileviewer.netlify.app/)).
+Check out the live demo of the application [here](https://github-profileviewer.netlify.app/).
 
 
 ## Features
