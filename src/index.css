@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gray-100 dark:bg-gray-900 text-gray-900 dark:text-gray-100;
+}
+
+.toggle-btn {
+  @apply absolute top-4 right-4 p-4 rounded-full bg-gray-200 dark:bg-gray-700 text-gray-900 dark:text-gray-100 transition duration-300 w-12 h-12 flex items-center justify-center;
+}
